@@ -5,6 +5,13 @@ public class dummy {
 
         int a = 3;
     }
+
+    public void methodOne(){
+        int a = 0;
+    }
+
+   
+
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("ABCD");

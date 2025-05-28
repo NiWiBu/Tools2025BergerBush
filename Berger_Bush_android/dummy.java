@@ -10,7 +10,11 @@ public class dummy {
         int a = 0;
     }
 
-   
+    public void methodTwo(){
+        int b = 1;
+    }
+
+    
 
     public static void main(String[] args) {
         System.out.println("Hello World!");

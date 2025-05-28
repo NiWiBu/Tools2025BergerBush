@@ -4,6 +4,7 @@ public class dummy {
         int i = 0;
 
         int a = 3;
+        System.out.println("bug fixed");
     }
 
     public void methodOne(){
